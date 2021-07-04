@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fortnite-shop/static/css/main.3c662456.chunk.css",
+    "main.js": "/Fortnite-shop/static/js/main.eb246e0a.chunk.js",
+    "main.js.map": "/Fortnite-shop/static/js/main.eb246e0a.chunk.js.map",
+    "runtime-main.js": "/Fortnite-shop/static/js/runtime-main.1aca050f.js",
+    "runtime-main.js.map": "/Fortnite-shop/static/js/runtime-main.1aca050f.js.map",
+    "static/js/2.bb72c23d.chunk.js": "/Fortnite-shop/static/js/2.bb72c23d.chunk.js",
+    "static/js/2.bb72c23d.chunk.js.map": "/Fortnite-shop/static/js/2.bb72c23d.chunk.js.map",
+    "index.html": "/Fortnite-shop/index.html",
+    "static/css/main.3c662456.chunk.css.map": "/Fortnite-shop/static/css/main.3c662456.chunk.css.map",
+    "static/js/2.bb72c23d.chunk.js.LICENSE.txt": "/Fortnite-shop/static/js/2.bb72c23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aca050f.js",
+    "static/js/2.bb72c23d.chunk.js",
+    "static/css/main.3c662456.chunk.css",
+    "static/js/main.eb246e0a.chunk.js"
+  ]
+}
