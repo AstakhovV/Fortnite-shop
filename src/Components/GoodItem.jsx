@@ -7,7 +7,11 @@ export function GoodsItem(props) {
     return (
         <div className="card" id={id}>
             <div className="card-image">
-                <img src={full_background} alt={name}/>
+                {description === '' ?
+                    <img src={`https://via.placeholder.com/300x300?text=Image not available`} alt={name}/>
+                    : <img src={full_background} alt={name}/>
+
+                }
             </div>
             <div className="card-content">
                 <span className="card-title">{name}</span>
